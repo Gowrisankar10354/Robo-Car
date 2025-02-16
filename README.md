@@ -1,19 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: blue;
-            text-align: center;
-        }
-        a {
-            font-size: 68px;
-            color: gray;
-        }
-    </style>
+ 
 </head>
 <body>
   <h1>Autonomous Navigation: A Glimpse into the Future of Robotics</h1>
