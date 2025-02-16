@@ -12,7 +12,7 @@
 
   <p>But the innovation doesn't stop there! This robo car can also be controlled manually via a smartphone app, offering a blend of autonomy and user interaction. Gesture control, powered by the phone's built-in gyro, adds another layer of intuitive control.But the true magic lies in its versatility, it can switch modes easly with the help of a single button on the phone.<p>
 
-  <p>This project is a testament to the power of open-source technology. It showcases the power of affordable components like the L298D motor driver, servos, and motors, proving that cutting-edge technology is accessible to everyone. The code, available in a separate file, provides a blueprint for aspiring roboticists to build and modify their own autonomous creations.<p>
+  <p>This project is a testament to the power of open-source technology. It showcases the power of affordable components like the L298D motor driver, servos, and motors, proving that cutting-edge technology is accessible to everyone. The code, available in a separate file ( https://github.com/Gowrisankar10354/Robo-Car/blob/b990fec8c43f6487f6228e7526cbdf8bc1dc2d28/code.c%2B%2B ), provides a blueprint for aspiring roboticists to build and modify their own autonomous creations.<p>
 
   <p>The possibilities are endless! Imagine a future where robo cars navigate in busy streets, deliver packages, or assist individuals with mobility challenges. This project is a stepping stone towards that future, highlighting the importance of robotics in shaping a more efficient and accessible world.<p>
 
